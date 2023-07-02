@@ -193,3 +193,5 @@ join SanPham on ChiTietSP.IdSP = SanPham.Id
 join DongSP on ChiTietSP.IdDongSP = DongSP.Id
 join NSX on ChiTietSP.IdNsx = NSX.Id
 join MauSac on ChiTietSP.IdMauSac = MauSac.Id
+
+-- CƯỜNG TEST GIT 
