@@ -195,3 +195,4 @@ join NSX on ChiTietSP.IdNsx = NSX.Id
 join MauSac on ChiTietSP.IdMauSac = MauSac.Id
 
 -- CƯỜNG TEST GIT 
+-- TEST GIT NGAY 3/7/2023
